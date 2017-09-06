@@ -1,8 +1,11 @@
 p{
   font-style: lorem ipsum;
 }
-div.imp{
+.imp{
   font-style: normal;
   font-family: cursive;
   color: #7c6f6d;
+}
+.hello{
+  font-style: italic;
 }
